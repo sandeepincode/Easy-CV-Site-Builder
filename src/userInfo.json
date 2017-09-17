@@ -1,0 +1,102 @@
+{
+    "firstName"         : "Sandeep",
+    "secondName"        : "Legende",
+    "title"             : "Student",
+    "image"             : "assets/images/profile.png",
+    "careerProfile"     : "This is where you write about your career profile,Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "links"             :
+        {
+          "mail"         : "sandeep@mail.me",
+          "mobileNumber" : "12345678910",
+          "site"         : "exampleSite.com",
+          "linkedIn"     : "linkedin.com/in/dab",
+          "twitter"      : "twitterName",
+          "github"       : [
+            "sandeepincode",
+            "github.com/sandeepincode"
+          ]
+        }
+  ,
+    "education" : [
+        {
+          "institute"     : "University of Whereever",
+          "fieldOfStudy"  : "BSc Software Engineering",
+          "startDate"     : "2014",
+          "endDate"       : "Expected 2019"
+        },
+        {
+          "institute"     : "High School",
+          "fieldOfStudy"  : "Many things",
+          "startDate"     : "2008",
+          "endDate"       : "2014"
+        }
+  ],
+    "interests" : ["Sleeping", "Eating", "Coding", "Other Stuff"],
+    "languages":[
+      {
+        "language"  : "English",
+        "level" : "Native"
+      },
+      {
+        "language"  : "Japanese",
+        "level" : "Fluent Speaking"
+      }
+  ],
+    "experiences" : [
+      {
+        "title"       : "Job Title One",
+        "company"     : "Company",
+        "location"    : "Locaion",
+        "startDate"   : {
+          "month" : "June",
+          "year"  : "2017"
+          },
+        "endDate"     : {
+          "month" : "Present",
+          "year"  : "2017"
+          },
+        "description" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+      },
+      {
+        "title"       : "Job Title Two",
+        "company"     : "Company",
+        "location"    : "Locaion",
+        "startDate"   : {
+          "month" : "June",
+          "year"  : "2017"
+          },
+        "endDate"     : {
+          "month" : "Present",
+          "year"  : "2017"
+          },
+        "description" : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+      }
+  ],
+    "projectsIntro" : "Project stuff, Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "projects" : [
+          {
+              "projectName"         : "Project One",
+              "projectLink"         : "https://github.com/sandeepincode",
+              "projectDescription"  : "Description,Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+          },
+          {
+              "projectName"         : "Project Two",
+              "projectLink"         : "https://github.com/sandeepincode",
+              "projectDescription"  : "Description, Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+          }
+  ],
+    "graphs" : [
+      {
+        "language" : "HTML & CSS",
+        "knowledgeLevel" : "90%"
+      },
+      {
+        "language" : "Javascript & JQuery",
+        "knowledgeLevel" : "95%"
+      },
+      {
+        "language" : "React JS",
+        "knowledgeLevel" : "60%"
+      }
+    ]
+}
