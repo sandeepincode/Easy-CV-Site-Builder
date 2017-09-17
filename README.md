@@ -1,4 +1,4 @@
-# Easy-CV-Site-Builder
+# React CV Site Builder
 <p>
  Why I built it? I've had a few people ask myself about CV sites, so I decided to simply build a maintainable site where you just modify the JSON. There are options to use CMS APIs but I just chose to keep it simply and let the develop decide what they want to do with the basic shell.
 </p>
